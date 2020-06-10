@@ -1,0 +1,4 @@
+github.com/dlorenc/is-even v0.0.0-20200610124049-477be2e91168 h1:4pC7aoIVDxFSRAQIxxekGIkdYId8n5RTN4SBYxWEFwk=
+github.com/dlorenc/is-even v0.0.0-20200610124049-477be2e91168/go.mod h1:uksw5ySjMLrG05nyK63c7B4sjjN9z2rn/WPNPcVBZnk=
+github.com/dlorenc/is-odd v0.0.0-20200610124137-5d7fc72f83c6 h1:3V6YVyGGEhDtEvI8PnexSKSe7UuB9Bt1hzYby1HyIwo=
+github.com/dlorenc/is-odd v0.0.0-20200610124137-5d7fc72f83c6/go.mod h1:F0uO73jlFMB6b/QocMYKrBJsEHCqigTCUy+6LJOG7Cg=
