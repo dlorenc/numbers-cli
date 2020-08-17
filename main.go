@@ -5,6 +5,8 @@ import (
 	"log"
 	"os"
 	"strconv"
+
+	odd "github.com/dlorenc/is-odd"
 )
 
 func main() {
@@ -13,7 +15,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	if i%2 != 0 {
+	if odd.IsOdd(i) {
 		fmt.Printf("%d is odd\n", i)
 	} else {
 		fmt.Printf("%d is even\n", i)
